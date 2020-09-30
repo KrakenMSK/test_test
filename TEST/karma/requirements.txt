@@ -1,4 +1,0 @@
-pysocks
-texttable
-docopt
-requests
